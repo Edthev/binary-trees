@@ -1,4 +1,5 @@
 import "./inputPage.scss";
+import { useState } from "react";
 const inputPage = () => {
    return (
       <div className="inputPage">
